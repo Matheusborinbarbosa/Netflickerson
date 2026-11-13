@@ -41,7 +41,7 @@ function Navbar() {
       {/* LOGO (Movida para o começo ou mantida onde preferir) */}
       <img
         className="img-logo"
-        src="https://www.pngarts.com/files/1/Netflix-Logo-PNG-Transparent-Image.png"
+        src="src/assets/logonova.png"
         alt="logo"
       />
 
